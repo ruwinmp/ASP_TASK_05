@@ -23,7 +23,14 @@ public class ExamMarkLowest {
 		    String line;
 		    while ((line = br.readLine()) != null) {
 		        String[] values = line.split(",");
-		        table.add(new ExamMarkDetails(Integer.parseInt(values[0]),values[1],Integer.parseInt(values[2]),Integer.parseInt(values[3]),Integer.parseInt(values[4]),Integer.parseInt(values[5]),Double.parseDouble(values[6])));
+		        table.add(new ExamMarkDetails(
+		        		Integer.parseInt(values[0]),
+		        		values[1].toString(),
+		        		Integer.parseInt(values[2]),
+		        		Integer.parseInt(values[3].toString()),
+		        		Integer.parseInt(values[4].toString()),
+		        		Integer.parseInt(values[5].toString()),
+		        		Double.parseDouble(values[6].toString())));
 		    }
 		} catch (Exception e) {
 			e.printStackTrace();
