@@ -1,0 +1,13 @@
+Sorted by Position - Descending
+5    Isuru Udana                           35        40        63
+4    Dhanushka Gunathilake                 71        60        25
+3    Wanindu Hasaranga                     50        45        65
+2    Kusal Mendis                          58        40        75
+1    Dhananja                              78        90        62
+
+Sorted by Student Name - Ascending
+1    Dhananja                              78        90        62
+4    Dhanushka Gunathilake                 71        60        25
+5    Isuru Udana                           35        40        63
+2    Kusal Mendis                          58        40        75
+3    Wanindu Hasaranga                     50        45        65
