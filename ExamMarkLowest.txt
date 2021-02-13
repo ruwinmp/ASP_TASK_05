@@ -1,0 +1,3 @@
+Lowest Exam Mark 138
+Total Marks of Business Studies : 292
+Students who got less than 60 marks for BS : [Kusal Mendis, Wanindu Hasaranga, Isuru Udana]
