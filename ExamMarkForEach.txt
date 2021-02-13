@@ -1,0 +1,5 @@
+1    Dhananja                              78        90        62
+2    Kusal Mendis                          58        40        75
+3    Wanindu Hasaranga                     50        45        65
+4    Dhanushka Gunathilake                 71        60        25
+5    Isuru Udana                           35        40        63
